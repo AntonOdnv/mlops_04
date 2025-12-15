@@ -1,0 +1,7 @@
+[core]
+    remote = ya_s3
+    autostage = true
+['remote "ya_s3"']
+    url = s3://s3-student-ds-1-student-20250909-00f8f3e47e
+    endpointurl = https://storage.yandexcloud.net
+    region = ru-central

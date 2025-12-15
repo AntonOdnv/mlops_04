@@ -1,0 +1,7 @@
+catboost_params:
+  random_state: 42
+  eval_metric: 'AUC:hints=skip_train~false'
+  od_type: 'Iter'
+  od_wait: 200
+  logging_level: 'Silent'
+cat_features: ['geography', 'gender']

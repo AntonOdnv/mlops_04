@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+joblib
+pyyaml
+dotenv
+boto3
+catboost
+sqlalchemy
+psycopg2-binary
+logging.config
+dvc
+dvc[all]

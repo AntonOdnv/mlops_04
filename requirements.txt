@@ -8,5 +8,4 @@ catboost
 sqlalchemy
 psycopg2-binary
 logging.config
-dvc
 dvc[all]
